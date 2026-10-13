@@ -40,7 +40,7 @@ function StreetScene({ is2G }: { is2G: boolean }) {
     </group>
   );
 }
--
+
 function SpaceScene() {
   return (
     <group position={[0, 500, 0]}>
